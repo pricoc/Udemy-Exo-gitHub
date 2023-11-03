@@ -1,2 +1,2 @@
-doubler is *3
+doubler is *2
   
